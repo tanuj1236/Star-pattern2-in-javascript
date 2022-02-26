@@ -1,0 +1,1 @@
+# Star-pattern2-in-javascript
